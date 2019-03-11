@@ -1,0 +1,14 @@
+div strong
+{
+color: green;
+}
+
+/*[div*=tortilla]
+{
+color: yellow;
+}
+Me gustaría buscar la palabra tortilla dentro de todos los div para
+poder ponerla en color amarillo pero he buscado por internet y no
+he sido capaz, si en el futuro descubro como actualizaré la actividad
+para incluir este selector.
+*/
