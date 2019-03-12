@@ -1,0 +1,10 @@
+He utilizado float para crear las columnas y les he dado uno margenes
+laterales pero no he sabido como mantener esa forma (3 columnas), el
+texto central es mucho más largo que los otros dos apartados y llega 
+un momento en el que ocupa todo el ancho de la página.
+
+Los enlaces de la columna derecha son de html y css por que he tenido
+que volver a comenzar el proyecto, mi primera idea era hacer una página
+con contenido del curso de nivelación, pero, mi perfíl es público con
+lo cual cualquiera podría acceder al contenido del curso. Por eso he 
+usado bastante más tiempo en este ejercicio.
